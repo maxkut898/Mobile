@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Я люблю виджеты, но красивые</string>
+    <string name="first_frag_str">Надпись</string>
+    <string-array name="sec_frag_arr">
+        <item></item>
+        <item></item>
+        <item>Кутышкин Максим</item>
+        <item>Пинчук Алексей</item>
+        <item>Могутова Софья</item>
+        <item>Гончаров Александр</item>
+        <item>Извеков Иван</item>
+        <item>Наумов Никита</item>
+    </string-array>
+    <string name="left_tab">Left tab</string>
+    <string name="middle_tab">Middle tab</string>
+    <string name="right_tab">Right tab</string>
+    <string name="mouse_description">(Описание)</string>
+</resources>
